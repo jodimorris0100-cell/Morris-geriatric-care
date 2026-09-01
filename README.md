@@ -56,86 +56,12 @@ Every older adult deserves to feel heard, respected, safe, and supported.
 
 Morris Geriatric Care & Senior Consulting takes a person-centered approach to aging and senior care.
 
-🛠️ Built With
+[https://jodimorris0100-cell.github.io/Morris-geriatric-care/
+](https://jodimorris0100-cell.github.io/Morris-geriatric-care/)
 
-HTML5
 
-CSS3
 
-JavaScript
-
-Responsive web design
-
-📁 Project Structure
-
-morris-geriatric-care/
-├── index.html
-└── README.md
-
-🚀 Getting Started
-
-Replace YOUR-USERNAME with your GitHub username:
-
-git clone https://github.com/YOUR-USERNAME/morris-geriatric-care.git
-cd morris-geriatric-care
-
-Then open index.html in your browser. No build process is required.
-
-🌐 GitHub Pages
-
-This website is designed to work with GitHub Pages.
-
-Upload index.html and README.md to your repository.
-
-Open Settings.
-
-Select Pages.
-
-Under Build and deployment, choose your main branch.
-
-Save the settings.
-
-GitHub will provide your published website address.
-
-A custom domain can be connected later.
-
-📋 Before Launch
-
-Replace the placeholder phone number.
-
-Replace the placeholder email address.
-
-Add the business owner's professional biography.
-
-Add a professional photograph.
-
-Add the official business logo.
-
-Review and confirm all services.
-
-Add testimonials, if available.
-
-Connect the contact form.
-
-Add social media links.
-
-Add the final domain.
-
-Add privacy and other required legal pages.
-
-🌐 Recommended Domain
-
-www.morrisgeriatriccare.com
-
-Possible alternatives:
-
-www.morrisgeriatriccareja.com
-
-www.morrisgeriatriccareandseniorconsulting.com
-
-www.morrisgeriatric.com
-
-📞 Contact
+📞 Contact 18763483296
 
 Morris Geriatric Care & Senior Consulting
 
