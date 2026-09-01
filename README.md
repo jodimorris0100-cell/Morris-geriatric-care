@@ -50,6 +50,25 @@ Senior Consulting
 
 Practical guidance for families navigating changing care needs, transitions, and important senior-care decisions.
 
+💜 What Families Say
+“Compassionate and Caring Support”
+
+"Morris Geriatric Care provided my family with guidance, patience, and reassurance during a difficult time. The care and attention shown were truly appreciated."
+
+— Family Member
+
+“A Nurse Who Truly Cares”
+
+"The professionalism, kindness, and dedication shown made a meaningful difference. Every concern was listened to and handled with compassion."
+
+— Client Family
+
+“Dignity, Respect, and Quality Care”
+
+"Knowing that our loved one was treated with dignity and respect gave our family peace of mind. We are grateful for the support provided."
+
+— Family Membe
+
 💚 Our Philosophy
 
 Every older adult deserves to feel heard, respected, safe, and supported.
